@@ -48,7 +48,7 @@ const HeroCarouselComponent = () => {
   //   nextArrow: <NextArrow />,
   //   prevArrow: <PrevArrow />,
   //   autoplay: true,
-    
+    //its me
   //   autoplaySpeed: 4000,
   //   cssEase: "linear",
   // };
